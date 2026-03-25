@@ -1,0 +1,501 @@
+ID,Text,Sentiment,clean_text,auto_sentiment,used_label
+1,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+2,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+3,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+4,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+5,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+6,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+7,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+8,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+9,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+10,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+11,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+12,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+13,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+14,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+15,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+16,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+17,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+18,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+19,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+20,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+21,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+22,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+23,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+24,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+25,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+26,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+27,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+28,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+29,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+30,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+31,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+32,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+33,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+34,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+35,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+36,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+37,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+38,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+39,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+40,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+41,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+42,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+43,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+44,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+45,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+46,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+47,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+48,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+49,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+50,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+51,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+52,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+53,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+54,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+55,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+56,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+57,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+58,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+59,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+60,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+61,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+62,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+63,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+64,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+65,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+66,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+67,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+68,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+69,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+70,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+71,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+72,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+73,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+74,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+75,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+76,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+77,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+78,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+79,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+80,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+81,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+82,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+83,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+84,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+85,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+86,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+87,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+88,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+89,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+90,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+91,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+92,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+93,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+94,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+95,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+96,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+97,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+98,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+99,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+100,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+101,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+102,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+103,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+104,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+105,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+106,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+107,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+108,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+109,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+110,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+111,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+112,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+113,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+114,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+115,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+116,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+117,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+118,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+119,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+120,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+121,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+122,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+123,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+124,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+125,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+126,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+127,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+128,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+129,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+130,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+131,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+132,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+133,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+134,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+135,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+136,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+137,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+138,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+139,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+140,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+141,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+142,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+143,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+144,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+145,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+146,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+147,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+148,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+149,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+150,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+151,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+152,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+153,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+154,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+155,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+156,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+157,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+158,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+159,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+160,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+161,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+162,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+163,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+164,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+165,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+166,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+167,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+168,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+169,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+170,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+171,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+172,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+173,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+174,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+175,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+176,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+177,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+178,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+179,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+180,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+181,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+182,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+183,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+184,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+185,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+186,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+187,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+188,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+189,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+190,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+191,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+192,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+193,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+194,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+195,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+196,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+197,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+198,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+199,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+200,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+201,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+202,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+203,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+204,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+205,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+206,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+207,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+208,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+209,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+210,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+211,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+212,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+213,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+214,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+215,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+216,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+217,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+218,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+219,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+220,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+221,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+222,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+223,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+224,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+225,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+226,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+227,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+228,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+229,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+230,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+231,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+232,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+233,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+234,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+235,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+236,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+237,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+238,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+239,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+240,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+241,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+242,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+243,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+244,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+245,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+246,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+247,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+248,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+249,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+250,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+251,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+252,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+253,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+254,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+255,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+256,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+257,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+258,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+259,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+260,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+261,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+262,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+263,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+264,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+265,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+266,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+267,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+268,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+269,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+270,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+271,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+272,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+273,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+274,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+275,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+276,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+277,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+278,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+279,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+280,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+281,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+282,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+283,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+284,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+285,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+286,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+287,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+288,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+289,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+290,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+291,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+292,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+293,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+294,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+295,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+296,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+297,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+298,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+299,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+300,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+301,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+302,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+303,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+304,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+305,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+306,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+307,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+308,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+309,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+310,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+311,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+312,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+313,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+314,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+315,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+316,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+317,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+318,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+319,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+320,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+321,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+322,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+323,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+324,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+325,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+326,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+327,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+328,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+329,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+330,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+331,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+332,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+333,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+334,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+335,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+336,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+337,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+338,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+339,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+340,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+341,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+342,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+343,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+344,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+345,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+346,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+347,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+348,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+349,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+350,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+351,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+352,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+353,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+354,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+355,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+356,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+357,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+358,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+359,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+360,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+361,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+362,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+363,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+364,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+365,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+366,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+367,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+368,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+369,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+370,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+371,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+372,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+373,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+374,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+375,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+376,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+377,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+378,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+379,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+380,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+381,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+382,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+383,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+384,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+385,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+386,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+387,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+388,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+389,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+390,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+391,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+392,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+393,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+394,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+395,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+396,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+397,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+398,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+399,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+400,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+401,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+402,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+403,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+404,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+405,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+406,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+407,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+408,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+409,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+410,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+411,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+412,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+413,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+414,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+415,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+416,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+417,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+418,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+419,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+420,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+421,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+422,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+423,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+424,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+425,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+426,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+427,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+428,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+429,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+430,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+431,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+432,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+433,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+434,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+435,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+436,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+437,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+438,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+439,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+440,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+441,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+442,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+443,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+444,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+445,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+446,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+447,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+448,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+449,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+450,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+451,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+452,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+453,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+454,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+455,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+456,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+457,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+458,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+459,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+460,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+461,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+462,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+463,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+464,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+465,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+466,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+467,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+468,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+469,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+470,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
+471,I believe GM Soybean reduces pesticide use and benefits the environment.,Positive,i believe gm soybean reduces pesticide use and benefits the environment,positive,positive
+472,There is too much uncertainty about the environmental impact of Golden Rice.,Negative,there is too much uncertainty about the environmental impact of golden rice,neutral,neutral
+473,I am still learning about how GM Cotton affects the environment.,Neutral,i am still learning about how gm cotton affects the environment,neutral,neutral
+474,"Overall, GM Potato appears to bring more benefits than risks.",Positive,overall gm potato appears to bring more benefits than risks,neutral,neutral
+475,I am worried that GM Wheat may damage biodiversity in the long term.,Negative,i am worried that gm wheat may damage biodiversity in the long term,neutral,neutral
+476,More research is needed to fully understand the impact of GM Rice.,Neutral,more research is needed to fully understand the impact of gm rice,neutral,neutral
+477,GM Banana seems like a good solution for farmers facing climate stress.,Positive,gm banana seems like a good solution for farmers facing climate stress,positive,positive
+478,I think GM Tomato might lead to overuse of chemicals and soil damage.,Negative,i think gm tomato might lead to overuse of chemicals and soil damage,neutral,neutral
+479,There are arguments both for and against GM Brinjal adoption.,Neutral,there are arguments both for and against gm brinjal adoption,neutral,neutral
+480,GM Maize helps increase yield and supports food security.,Positive,gm maize helps increase yield and supports food security,neutral,neutral
+481,GM Soybean could introduce unknown health risks to consumers.,Negative,gm soybean could introduce unknown health risks to consumers,negative,negative
+482,People seem divided on whether Golden Rice is good or bad.,Neutral,people seem divided on whether golden rice is good or bad,neutral,neutral
+483,GM technology in GM Cotton can improve nutrition and productivity.,Positive,gm technology in gm cotton can improve nutrition and productivity,neutral,neutral
+484,The spread of GM Potato genes to wild species concerns me.,Negative,the spread of gm potato genes to wild species concerns me,negative,negative
+485,I do not have a strong opinion about GM Wheat yet.,Neutral,i do not have a strong opinion about gm wheat yet,neutral,neutral
+486,I believe GM Rice reduces pesticide use and benefits the environment.,Positive,i believe gm rice reduces pesticide use and benefits the environment,positive,positive
+487,There is too much uncertainty about the environmental impact of GM Banana.,Negative,there is too much uncertainty about the environmental impact of gm banana,neutral,neutral
+488,I am still learning about how GM Tomato affects the environment.,Neutral,i am still learning about how gm tomato affects the environment,neutral,neutral
+489,"Overall, GM Brinjal appears to bring more benefits than risks.",Positive,overall gm brinjal appears to bring more benefits than risks,neutral,neutral
+490,I am worried that GM Maize may damage biodiversity in the long term.,Negative,i am worried that gm maize may damage biodiversity in the long term,neutral,neutral
+491,More research is needed to fully understand the impact of GM Soybean.,Neutral,more research is needed to fully understand the impact of gm soybean,neutral,neutral
+492,Golden Rice seems like a good solution for farmers facing climate stress.,Positive,golden rice seems like a good solution for farmers facing climate stress,positive,positive
+493,I think GM Cotton might lead to overuse of chemicals and soil damage.,Negative,i think gm cotton might lead to overuse of chemicals and soil damage,neutral,neutral
+494,There are arguments both for and against GM Potato adoption.,Neutral,there are arguments both for and against gm potato adoption,neutral,neutral
+495,GM Wheat helps increase yield and supports food security.,Positive,gm wheat helps increase yield and supports food security,neutral,neutral
+496,GM Rice could introduce unknown health risks to consumers.,Negative,gm rice could introduce unknown health risks to consumers,negative,negative
+497,People seem divided on whether GM Banana is good or bad.,Neutral,people seem divided on whether gm banana is good or bad,neutral,neutral
+498,GM technology in GM Tomato can improve nutrition and productivity.,Positive,gm technology in gm tomato can improve nutrition and productivity,neutral,neutral
+499,The spread of GM Brinjal genes to wild species concerns me.,Negative,the spread of gm brinjal genes to wild species concerns me,negative,negative
+500,I do not have a strong opinion about GM Maize yet.,Neutral,i do not have a strong opinion about gm maize yet,neutral,neutral
